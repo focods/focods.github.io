@@ -4,7 +4,7 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Fort Collins Data Science
+owner: Fort Collins Data Science Meetup
 
 # Optional quote in the footer
 # To disable set enable to false
@@ -15,7 +15,7 @@ quote:
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
-title: Fort Collins Data Science
+title: Fort Collins Data Science Meetup
 
 
 # Following needed for disqus integration
